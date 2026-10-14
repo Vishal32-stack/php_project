@@ -98,7 +98,7 @@ After submitting the form, the result from `submit.php` is shown on the page.
 
 <img width="2940" height="1912" alt="8D7AB713-B7A0-4E57-8E69-B5E0FA9C7D88" src="https://github.com/user-attachments/assets/50dad20b-181f-4847-8391-862c9adbb7ef" />
 
-<img width="2940" height="1912" alt="2454122C-C733-46B5-A9AF-4965174E020F" src="https://github.com/user-attachments/assets/5ea6e6d4-82b2-4e9a-a091-c119c2a941b0" />
+<img width="2940" height="1912" alt="1B3510F6-55C4-4D8E-A395-E25C6C75F9FA" src="https://github.com/user-attachments/assets/c018e09f-55c0-4dea-a69b-c4ebbb17daba" />
 
 ---
 
