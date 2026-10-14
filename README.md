@@ -110,4 +110,4 @@ The signup form was deployed on an Apache + PHP server on AWS EC2. Users can ope
 
 ## Author
 
-**Vishal** — [GitHub: Vishal32-stack](https://github.com/Vishal32-stack)4d62-b2e1-3f356bd66527" />
+**Vishal** — [GitHub: Vishal32-stack](https://github.com/Vishal32-stack)
